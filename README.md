@@ -2,7 +2,7 @@
 
 Portfolio professionnel d'un ingénieur DevOps & Cloud basé à Nouakchott, Mauritanie.
 
-**En ligne :** https://medbeddi.github.io/portfolio/
+**En ligne :** https://medbeddi.github.io/
 
 ## Contenu
 
